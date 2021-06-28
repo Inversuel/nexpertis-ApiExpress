@@ -1,2 +1,2 @@
 # nexpertis-ApiExpress
-Express api
+Express api na potrzeby rekrutacji
